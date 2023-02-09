@@ -8,6 +8,9 @@ A Spotify unofficial client built with Jetpack Compose, Material You/3 and libre
 
 </div>
 
+## INFO
+I will be working on Jetispot as soon as I can, but at the moment I'm remaking Spowlo; now it will be a song downloader app (https://github.com/BobbyESP/Spowlo/tree/remake-2). By the moment I finish, I will improve this client. Thank you all!
+
 ## 📣 NOTICE
 Spotify Premium account is **REQUIRED***. Offline caching, DRM bypassing or raw file downloading is prohibted by ToS and will NEVER be implemented in Jetispot. Don't waste your time trying to request these features.
 
